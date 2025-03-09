@@ -1,0 +1,25 @@
+{
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "description": "A small Tinder-like web application backend built using Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "dev" : "nodemon src/App.js"
+
+   
+  },
+  "keywords": [
+    "tinder",
+    "backend",
+    "matchmaking",
+    "nodejs",
+    "express",
+    "dating-app"
+  ],
+  "author": "Anjarul Haque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
