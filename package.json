@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/App.js",
-    "dev" : "nodemon src/App.js"
-
-   
+    "dev": "nodemon src/App.js"
   },
   "keywords": [
     "tinder",
@@ -20,6 +18,7 @@
   "author": "Anjarul Haque",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
   }
 }
