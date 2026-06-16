@@ -4,8 +4,8 @@
   "description": "A small Tinder-like web application backend built using Node.js.",
   "main": "index.js",
   "scripts": {
-    "start": "node src/App.js",
-    "dev": "nodemon src/App.js"
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
   },
   "keywords": [
     "tinder",
